@@ -25,6 +25,7 @@ Algorithm/
 |------|------|------|------|
 |2025.10.21|C|4779|https://github.com/codeby-eunam/Algorithm/blob/main/C/20251021_4779.md|
 |2025.10.21|C++|4779|https://github.com/codeby-eunam/Algorithm/blob/main/CPP/20251021_4779.md|
+|2025.10.22|C|2501|https://github.com/codeby-eunam/Algorithm/blob/main/C/20251021_4779.md|
 
 > 📌 **업데이트 규칙**  
 > - 하루 최소 1문제  
@@ -37,6 +38,7 @@ Algorithm/
 
 | 주제 | 설명 |
 |------|------|
+| 🧮 수학 | 약수 |
 | 🔂 재귀 | 분할 정복 |
 ---
 
