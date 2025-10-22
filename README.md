@@ -23,6 +23,8 @@ Algorithm/
 
 | 날짜 | 언어 | 문제 | 링크 |
 |------|------|------|------|
+|2025.10.21|C|4779|https://github.com/codeby-eunam/Algorithm/blob/main/C/20251021_4779.md|
+|2025.10.21|C++|4779|https://github.com/codeby-eunam/Algorithm/blob/main/CPP/20251021_4779.md|
 
 > 📌 **업데이트 규칙**  
 > - 하루 최소 1문제  
@@ -35,7 +37,7 @@ Algorithm/
 
 | 주제 | 설명 |
 |------|------|
-
+| 🔂 재귀 | 분할 정복 |
 ---
 
 ## 🚀 목표
@@ -51,5 +53,5 @@ Algorithm/
 
 ### ✨ 작성자
 **codeby-eunam**  
-> 매일 즐거움 발견하기
-> 바보같은 질문은 없다
+> - 매일 즐거움 발견하기
+> - 바보같은 질문은 없다
