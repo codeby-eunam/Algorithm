@@ -8,11 +8,13 @@
 ---
 
 ## 📂 폴더 구조
+```
 Algorithm/
 ├── C/ # C 언어 풀이
 ├── Cpp/ # C++ 풀이
 ├── Python/ # Python 풀이
 └── README.md # 이 파일
+```
 
 
 ---
@@ -21,13 +23,10 @@ Algorithm/
 
 | 날짜 | 언어 | 문제 | 링크 |
 |------|------|------|------|
-| 2025-10-22 | C++ | [BOJ 1000 - A+B](https://www.acmicpc.net/problem/1000) | [풀이 보기](./Cpp/BOJ_1000_AplusB.cpp) |
-| 2025-10-22 | Python | [BOJ 2557 - Hello World](https://www.acmicpc.net/problem/2557) | [풀이 보기](./Python/BOJ_2557_HelloWorld.py) |
-| 2025-10-22 | C | [BOJ 2438 - 별 찍기 - 1](https://www.acmicpc.net/problem/2438) | [풀이 보기](./C/BOJ_2438_Star1.c) |
 
 > 📌 **업데이트 규칙**  
 > - 하루 최소 1문제  
-> - 파일명 규칙: `BOJ_문제번호_문제이름.확장자`  
+> - 파일명 규칙: `날짜_문제번호.md`  
 > - 새로운 풀이를 추가할 때 위 표에 링크를 추가합니다.  
 
 ---
@@ -51,5 +50,5 @@ Algorithm/
 ---
 
 ### ✨ 작성자
-**na**  
+**codeby-eunam**  
 > 매일 즐거움 발견하기
